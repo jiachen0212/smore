@@ -77,3 +77,4 @@ test_model1_and_model2(flag=1/2) 为model1+2的正向验证过程, 即通过膜�
 run Test.py 
 1. 正向验证, model12均需要用测试数据fine-tune最佳model12
 2. 反向验证, model12均不需要用测试数据fine-tune最佳model12
+3. 
